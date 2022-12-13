@@ -1,3 +1,4 @@
+<img align="right" alt="Karan Singh" src="https://drive.google.com/file/d/1Vtma6Lkfs_eyQod_T_HMVw1UGThoRPlE/view?usp=sharing">
 <h1 align="center">Hi 👋, I'm Karan Singh</h1>
 <h3 align="center">I’m interested in Web-Development & System Design.</h3>
 
